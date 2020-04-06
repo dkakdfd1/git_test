@@ -5,10 +5,7 @@ namespace Property
     public class Date
     {
 <<<<<<< user2
-        private int month = 11;
-=======
-        private int month = 5;
->>>>>>> master
+        private int month = 7;
 
         public int Month
         {
