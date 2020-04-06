@@ -25,7 +25,7 @@ namespace Property
                 int inputMonth = int.Parse(Console.ReadLine());
                 if (inputMonth == -1) break;
                 d1.Month = inputMonth;
-                Console.WriteLine("Now month : {0}\n", d1.Month);
+                first commit
             }
             
         }
