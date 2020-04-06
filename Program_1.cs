@@ -4,7 +4,7 @@ namespace Property
 {
     public class Date
     {
-        private int month = 7;
+        private int month = 5;
 
         public int Month
         {
